@@ -20,5 +20,5 @@ pipelines, MLOps) around an already solid statistical foundation.
 
 ## Contact
 
-- GitHub: [github.com/elotfian](https://github.com/elotfian)
+- Email: e.lotfian@gmail.com
 - LinkedIn: [linkedin.com/in/elaheh-lotfian-b51690b5](https://www.linkedin.com/in/elaheh-lotfian-b51690b5)
