@@ -16,7 +16,7 @@ pipelines, MLOps) around an already solid statistical foundation.
 
 - PhD, Applied Statistics
 - Strong in mathematics, optimization, statistical inference, and data science
-- Building practical software engineering skills: Python (NumPy, pandas, scikit-learn, PyTorch), SQL, scikit-learn, PyTorch, MLOps (Docker, FastAPI, MLflow)
+- Building practical software engineering skills: Python (scikit-learn, PyTorch), SQL, MLOps (Docker, FastAPI, MLflow)
 
 ## Contact
 
