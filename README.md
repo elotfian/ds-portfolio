@@ -1,10 +1,10 @@
 # Data Science Portfolio - Elaheh Lotfian
 
-PhD in Applied Statistics, transitioning into Data Science / ML Engineering roles in Belgium. 
-This repo contains polished, employer-ready projects built as part of a structured 16-week 
-roadmap covering Python, ML, deep learning, and MLOps.
-
-For rough/in-progress work, see my private sandbox repo (practice code, not polished for review).
+PhD in Applied Statistics, with a strong background in statistical modeling, 
+hypothesis testing, and applied research. This repo documents my transition 
+into industry-focused Data Science / ML Engineering roles in Belgium, 
+building production-oriented software engineering skills (Python, SQL, ML 
+pipelines, MLOps) around an already solid statistical foundation.
 
 ## Projects
 
@@ -15,8 +15,8 @@ For rough/in-progress work, see my private sandbox repo (practice code, not poli
 ## Background
 
 - PhD, Applied Statistics
-- Strong in mathematics, optimization, and statistical inference
-- Building practical software engineering skills: Python, SQL, scikit-learn, PyTorch, MLOps (Docker, FastAPI, MLflow)
+- Strong in mathematics, optimization, statistical inference, and data science
+- Building practical software engineering skills: Python (NumPy, pandas, scikit-learn, PyTorch), SQL, scikit-learn, PyTorch, MLOps (Docker, FastAPI, MLflow)
 
 ## Contact
 
