@@ -1,16 +1,16 @@
-# Data Science Portfolio - Elaheh Lotfian
+# Data Science / ML Engineering Portfolio - Elaheh Lotfian
 
 PhD in Applied Statistics, with a strong background in statistical modeling, 
 hypothesis testing, and applied research. This repo documents my transition 
-into industry-focused Data Science / ML Engineering roles in Belgium, 
-building production-oriented software engineering skills (Python, SQL, ML 
-pipelines, MLOps) around an already solid statistical foundation.
+into industry-focused Data Science / ML Engineering roles, building 
+production-oriented software engineering skills (Python, SQL, ML pipelines, 
+MLOps) around an already solid statistical foundation.
 
 ## Projects
 
 | Project | Description | Techniques |
 |---|---|---|
-| [California Housing - OLS Regression](week01_ols_project.ipynb) | Predicting median house values using linear regression, implemented from scratch and validated against scikit-learn. Includes residual diagnostics that identified a target-capping artifact and leverage-point outliers in the dataset. | NumPy, OLS from scratch, sklearn, residual analysis, correlation/multicollinearity checks |
+| [California Housing - OLS Regression](ols_project.ipynb) | Predicting median house values using linear regression, implemented from scratch and validated against scikit-learn. Includes residual diagnostics that identified a target-capping artifact and leverage-point outliers in the dataset. | NumPy, OLS from scratch, sklearn, residual analysis, correlation/multicollinearity checks |
 
 ## Background
 
