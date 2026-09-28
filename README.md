@@ -1,16 +1,10 @@
 # Data Science / ML Engineering Portfolio - Elaheh Lotfian
 
-PhD in Applied Statistics, with a strong background in statistical 
-modeling, hypothesis testing, and applied research. This repo applies 
-that foundation to production-oriented Data Science / ML Engineering 
-work. Running a model is the easy part - the harder, more valuable 
-skill is knowing what a metric is actually hiding, why a method was 
-chosen over another, and whether the result can be trusted. Each 
-project below documents that reasoning alongside the code: the 
-statistical thinking behind every method choice, every evaluation 
-metric, and every tradeoff made along the way. The code is the 
-implementation; the write-up is the argument. These notebooks are meant 
-to be read and reused as references, not just run.
+PhD in Applied Statistics, with a strong background in statistical modeling, hypothesis testing, and applied research. This repo applies that foundation to production-oriented Data Science / ML Engineering work.
+
+Running a model is the easy part. The harder, more valuable skill is knowing what a metric is actually hiding, why one method was chosen instead of another, and whether the result can be trusted. Each project below documents that reasoning alongside the code, including the statistical thinking behind every method choice, evaluation metric, and tradeoff made along the way.
+
+These notebooks are meant to be read and reused as references.
 
 ## Projects
 
