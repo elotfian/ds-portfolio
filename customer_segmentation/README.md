@@ -1,8 +1,6 @@
 ﻿# Customer Segmentation
 
-This project groups mall customers into distinct segments and
-translates them into a business recommendation a marketing team could
-act on — a practical, business-oriented workflow.
+This project groups mall customers into distinct segments and translates them into a business recommendation a marketing team could act on, creating a practical, business-oriented workflow.
 
 Dataset: Mall Customer Segmentation, from Kaggle (200 customers, 5
 features: CustomerID, Gender, Age, Annual Income, Spending Score).
